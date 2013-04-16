@@ -1,11 +1,13 @@
 #ExpertSystem
 ============
 
-an Expert System Called " Atrophy Diagnosis System"  i did when i was a student, i also made it in Python &amp; PyQT, just to discover the language, though it is not my primary language.
+a Simple Expert System Called " Atrophy Diagnosis System"  i did when i was a student, i also made it in Python &amp; PyQT, just to discover the language, though it is not my primary language.
 
 ## How it works?
 you can open termain and just run 
-python Main.py
+ ```bash
+ python Main.py
+ ```
 
 ## Bugs ?
 yes, there are a few bugs exists, but the app still functional.
