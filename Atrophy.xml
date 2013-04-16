@@ -1,0 +1,62 @@
+<Disease>
+    <Rule name="Magnissium">
+        <Tuple Cpt="viens" Prop="color" Val="yellow"/>
+        <Tuple Cpt="photosyneithis process" Prop="rate" Val="low"/>
+
+    </Rule>
+    <Rule name="Zinc">
+        <Tuple Cpt="stalk" Prop="tall" Val="short"/>
+        <Tuple Cpt="crop" Prop="quantity" Val="lack"/>
+        <Tuple Cpt="leaf" Prop="shape" Val="small"/>
+        <Tuple Cpt="plant" Prop="symbtoms" Val="roosting"/>
+        <Tuple Cpt="leaf" Prop="half" Val="not the same"/>
+        <Tuple Cpt="viens" Prop="color" Val="yellow"/>
+        <Tuple Cpt="root" Prop="amount" Val="limited"/>
+    </Rule>
+    <Rule name="Nitrogen">
+        <Tuple Cpt="leaf" Prop="color" Val="yellow"/>
+        <Tuple Cpt="stalk" Prop="tall" Val="short"/>
+        <Tuple Cpt="stalk" Prop="width" Val="thin"/>
+        <Tuple Cpt="plant" Prop="symbtoms" Val="get defoliation"/>
+        <Tuple Cpt="plant" Prop="state" Val="drought"/>
+        <Tuple Cpt="crop" Prop="quantity" Val="lack"/>
+        <Tuple Cpt="seeds" Prop="amount" Val="atorphy"/>
+    </Rule>
+    <Rule name="Phosphorous">
+
+        <Tuple Cpt="stalk" Prop="width" Val="thin"/>
+        <Tuple Cpt="plant" Prop="symbtoms" Val="get defoliation"/>
+        <Tuple Cpt="leaf barb" Prop="color" Val="magenta spots"/>
+        <Tuple Cpt="plant" Prop="state" Val="drought"/>
+        <Tuple Cpt="RNA" Prop="amount" Val="low"/>
+        <Tuple Cpt="protein" Prop="amount" Val="low"/>
+        <Tuple Cpt="vegetative growth" Prop="amount" Val="lack"/>
+        <Tuple Cpt="crop" Prop="quantity" Val="lack"/>
+        <Tuple Cpt="growth" Prop="amount" Val="lack"/>
+        <Tuple Cpt="inside" Prop="state" Val="soft"/>
+        <Tuple Cpt="root" Prop="amount" Val="limited"/>
+        <Tuple Cpt="stalk" Prop="tall" Val="short"/>
+        <Tuple Cpt="stalk" Prop="strength" Val="strong"/>
+        <Tuple Cpt="photosyneithis process" Prop="rate" Val="low"/>
+    </Rule>
+    <Rule name="Potassium">
+        <Tuple Cpt="stalk" Prop="width" Val="thin"/>
+        <Tuple Cpt="plant" Prop="symbtoms" Val="get defoliation"/>
+        <Tuple Cpt="acid" Prop="state" Val="accumulated"/>
+        <Tuple Cpt="photosyneithis process" Prop="rate" Val="low"/>
+        <Tuple Cpt="root" Prop="state" Val="fragile"/>
+        <Tuple Cpt="edges" Prop="color" Val="brown spots"/>
+        <Tuple Cpt="seeds" Prop="amount" Val="atorphy"/>
+    </Rule>
+    <Rule name="Calcium">
+        <Tuple Cpt="growth of cells" Prop="rate" Val="low"/>
+        <Tuple Cpt="newly growth" Prop="color" Val="yellow"/>
+        <Tuple Cpt="newly growth" Prop="state" Val="deformation"/>
+        <Tuple Cpt="plant" Prop="state" Val="fruit rot"/>
+        <Tuple Cpt="edges" Prop="color" Val="brown spots"/>
+    </Rule>
+    <Rule name="Sulfuric">
+        <Tuple Cpt="leaf" Prop="color" Val="yellow"/>
+        <Tuple Cpt="viens" Prop="color" Val="yellow"/>
+    </Rule>
+<rule name="one"/></Disease>
